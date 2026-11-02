@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate Intelligence Studio - Amazon Video & SEO Generator",
+  "description": "Generate high-converting Amazon affiliate product review video packages with SEO tags, 5 thumbnail concepts, and 20-clip Veo AI video prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
